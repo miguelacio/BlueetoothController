@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/Desktop/monitoreo-mobile/BluetoothController/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0eaa7334803409f635c455dca2fd7093fb4c747b">
+        <dex dex="/Users/miguelacio/Desktop/monitoreo-mobile/BluetoothController/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0c1042fb260e40f5417c71dee1c1ad5679a5d9e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/Desktop/monitoreo-mobile/BluetoothController/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/miguelacio/Desktop/monitoreo-mobile/BluetoothController/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7d898512aed75955d973dd2dc644f07f8489491d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.android/build-cache/a831d1320df36db115b3df5b6379333b1f5e77ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ccb87c4b293be4a4cf1e2678e5f9195dfe907b6">
+        <dex dex="/Users/miguelacio/Desktop/monitoreo-mobile/BluetoothController/app/build/intermediates/pre-dexed/debug/classes_fdb1b5f77414cef28a20e2e1fcbc1f93e34e9030.jar" />
+    </item>
+
+</items>

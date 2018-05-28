@@ -21,8 +21,7 @@
             <ImageButton
                 android:id="@+id/image_button_fernando"
                 android:layout_width="@dimen/stick_size"
-                android:layout_height="@dimen/stick_size"
-                android:background="@drawable/fernando_uno" />
+                android:layout_height="@dimen/stick_size"/>
 
         </com.jmedeisis.bugstick.Joystick>
 

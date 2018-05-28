@@ -138,7 +138,7 @@ public class MainActivity extends AppCompatActivity {
 
         @Override
         protected void onPreExecute() {
-            progress = ProgressDialog.show(MainActivity.this, "Conectando con KIIKO...", "Espere un momento");
+            progress = ProgressDialog.show(MainActivity.this, "Conectando con dispositivo...", "Espere un momento");
         }
 
         @Override
@@ -165,7 +165,7 @@ public class MainActivity extends AppCompatActivity {
                 msg("Conexión Fallida");
                 finish();
             } else {
-                msg("Conectado a KIIKO");
+                msg("Conectado al dispositivo");
                 isBtConnected = true;
             }
             progress.dismiss();
